@@ -1,6 +1,6 @@
 Vitaly Borodin (DKrus) - programmer
 
-Nakita Larionov ( GitHub account ) - COO
+Nakita Larionov (MaestroCard) - COO
 
 Alexander Melnikov () - programmer
 
