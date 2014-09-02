@@ -1,6 +1,6 @@
 Vitaly Borodin () - programmer
 
-Nakita Larionov ( GitHub account ) - CEO
+Nakita Larionov ( GitHub account ) - COO
 
 Alexander Melnikov () - programmer
 
