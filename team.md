@@ -1,4 +1,4 @@
-Vitaly Borodin () - programmer
+Vitaly Borodin (DKrus) - programmer
 
 Nakita Larionov ( GitHub account ) - COO
 
